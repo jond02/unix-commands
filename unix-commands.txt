@@ -1,0 +1,2 @@
+cntrl + u //delete left of cursor
+contrl + k //delete right of cursor
