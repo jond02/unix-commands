@@ -1,0 +1,17 @@
+date
+cal
+df
+free
+exit
+pwd
+ls
+cd
+file
+less
+cp
+mv
+mkdir
+rm
+ln
+wildcards * ? [chars] [!chars] [[:class:]]
+classes [:alnum:] [:alpha:] [:digit:] [:lower:] [:upper:]
