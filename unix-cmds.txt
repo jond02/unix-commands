@@ -15,3 +15,12 @@ rm
 ln
 wildcards * ? [chars] [!chars] [[:class:]]
 classes [:alnum:] [:alpha:] [:digit:] [:lower:] [:upper:]
+type
+which
+man
+apropos
+info
+whatis
+alias
+users
+wc
