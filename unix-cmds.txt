@@ -22,5 +22,29 @@ apropos
 info
 whatis
 alias
-users
+cat
+sort
+uniq
 wc
+grep
+head
+tail
+tee
+users
+clear
+> redirecting standard output
+>> redirect and append
+0>, 1>, 2> redirecting to standard input, output, and error
+&> redirecting standard output and error
+/dev/null redirect when don't want anything back
+cat > filename create a file and enter text
+< redirect standard input
+| pipeline
+echo
+$((expression)) arithmetic, only ints
+{} brace expansion //echo Number_{1..5}
+printenv | less //list of env variables
+sleep
+clear
+history
+echo -e "\a" make a beep
